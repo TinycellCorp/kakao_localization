@@ -1,0 +1,32 @@
+{
+  "common": {
+    "confirm": "확인",
+    "cancel": "취소",
+    "close": "닫기",
+    "save": "저장",
+    "loading": "로딩 중..."
+  },
+  "main": {
+    "title": "프렌즈 디펜스",
+    "start": "게임 시작",
+    "settings": "설정",
+    "quit": "종료"
+  },
+  "game": {
+    "wave": "웨이브",
+    "score": "점수",
+    "gold": "골드",
+    "life": "생명",
+    "pause": "일시정지",
+    "resume": "계속하기",
+    "gameover": "게임 오버",
+    "victory": "승리!"
+  },
+  "settings": {
+    "sound": "사운드",
+    "music": "배경음악",
+    "language": "언어",
+    "on": "켜기",
+    "off": "끄기"
+  }
+}

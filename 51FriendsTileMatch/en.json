@@ -1,0 +1,33 @@
+{
+  "common": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "loading": "Loading..."
+  },
+  "main": {
+    "title": "Friends TileMatch",
+    "start": "Start Game",
+    "settings": "Settings",
+    "quit": "Quit"
+  },
+  "game": {
+    "score": "Score",
+    "level": "Level",
+    "time": "Time",
+    "hint": "Hint",
+    "shuffle": "Shuffle",
+    "pause": "Pause",
+    "resume": "Resume",
+    "gameover": "Game Over",
+    "cleared": "Cleared!"
+  },
+  "settings": {
+    "sound": "Sound",
+    "music": "Music",
+    "language": "Language",
+    "on": "On",
+    "off": "Off"
+  }
+}

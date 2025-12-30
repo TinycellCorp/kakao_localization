@@ -1,0 +1,32 @@
+{
+  "common": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "loading": "Loading..."
+  },
+  "main": {
+    "title": "Friends Defense",
+    "start": "Start Game",
+    "settings": "Settings",
+    "quit": "Quit"
+  },
+  "game": {
+    "wave": "Wave",
+    "score": "Score",
+    "gold": "Gold",
+    "life": "Life",
+    "pause": "Pause",
+    "resume": "Resume",
+    "gameover": "Game Over",
+    "victory": "Victory!"
+  },
+  "settings": {
+    "sound": "Sound",
+    "music": "Music",
+    "language": "Language",
+    "on": "On",
+    "off": "Off"
+  }
+}

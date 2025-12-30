@@ -1,0 +1,33 @@
+{
+  "common": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "loading": "Loading..."
+  },
+  "main": {
+    "title": "Friends Runner",
+    "start": "Start Game",
+    "settings": "Settings",
+    "quit": "Quit"
+  },
+  "game": {
+    "score": "Score",
+    "distance": "Distance",
+    "coin": "Coin",
+    "jump": "Jump",
+    "slide": "Slide",
+    "pause": "Pause",
+    "resume": "Resume",
+    "gameover": "Game Over",
+    "newrecord": "New Record!"
+  },
+  "settings": {
+    "sound": "Sound",
+    "music": "Music",
+    "language": "Language",
+    "on": "On",
+    "off": "Off"
+  }
+}

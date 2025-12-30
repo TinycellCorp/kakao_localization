@@ -1,0 +1,33 @@
+{
+  "common": {
+    "confirm": "확인",
+    "cancel": "취소",
+    "close": "닫기",
+    "save": "저장",
+    "loading": "로딩 중..."
+  },
+  "main": {
+    "title": "프렌즈 러너",
+    "start": "게임 시작",
+    "settings": "설정",
+    "quit": "종료"
+  },
+  "game": {
+    "score": "점수",
+    "distance": "거리",
+    "coin": "코인",
+    "jump": "점프",
+    "slide": "슬라이드",
+    "pause": "일시정지",
+    "resume": "계속하기",
+    "gameover": "게임 오버",
+    "newrecord": "신기록!"
+  },
+  "settings": {
+    "sound": "사운드",
+    "music": "배경음악",
+    "language": "언어",
+    "on": "켜기",
+    "off": "끄기"
+  }
+}
