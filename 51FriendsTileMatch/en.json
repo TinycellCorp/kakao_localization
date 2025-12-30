@@ -1,33 +1,30 @@
 {
-  "common": {
-    "confirm": "Confirm",
-    "cancel": "Cancel",
-    "close": "Close",
-    "save": "Save",
-    "loading": "Loading..."
-  },
-  "main": {
-    "title": "Friends TileMatch",
-    "start": "Start Game",
-    "settings": "Settings",
-    "quit": "Quit"
-  },
-  "game": {
-    "score": "Score",
-    "level": "Level",
-    "time": "Time",
-    "hint": "Hint",
-    "shuffle": "Shuffle",
-    "pause": "Pause",
-    "resume": "Resume",
-    "gameover": "Game Over",
-    "cleared": "Cleared!"
-  },
-  "settings": {
-    "sound": "Sound",
-    "music": "Music",
-    "language": "Language",
-    "on": "On",
-    "off": "Off"
-  }
+  "text.gameStart": "text.gameStart",
+  "text.setting": "text.setting",
+  "text.ranking": "text.ranking",
+  "text.skin": "text.skin",
+  "text.share": "text.share",
+  "text.takeout": "text.takeout",
+  "text.revoke": "text.revoke",
+  "text.refresh": "text.refresh",
+  "gameover.title": "gameover.title",
+  "gameover.tips1": "gameover.tips1",
+  "gameover.tips2": "gameover.tips2",
+  "gameover.revive": "gameover.revive",
+  "gameover.refuse": "gameover.refuse",
+  "gameover.tips3": "gameover.tips3",
+  "gameover.restart": "gameover.restart",
+  "gameover.exit": "gameover.exit",
+  "shop.title": "shop.title",
+  "shop.using": "shop.using",
+  "shop.unlock": "shop.unlock",
+  "setting.title": "setting.title",
+  "setting.bgm": "setting.bgm",
+  "setting.sfx": "setting.sfx",
+  "text.locked.skin": "text.locked.skin",
+  "text.level": "text.level",
+  "text.function.not.open": "text.function.not.open",
+  "text.use.up.end": "text.use.up.end",
+  "text.no.use.daoju": "text.no.use.daoju",
+  "text.chehui.success": "text.chehui.success"
 }

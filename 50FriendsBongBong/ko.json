@@ -1,32 +1,38 @@
 {
-  "common": {
-    "confirm": "확인",
-    "cancel": "취소",
-    "close": "닫기",
-    "save": "저장",
-    "loading": "로딩 중..."
-  },
-  "main": {
-    "title": "프렌즈 봉봉",
-    "start": "게임 시작",
-    "settings": "설정",
-    "quit": "종료"
-  },
-  "game": {
-    "score": "점수",
-    "level": "레벨",
-    "target": "목표",
-    "moves": "남은 횟수",
-    "pause": "일시정지",
-    "resume": "계속하기",
-    "gameover": "게임 오버",
-    "cleared": "클리어!"
-  },
-  "settings": {
-    "sound": "사운드",
-    "music": "배경음악",
-    "language": "언어",
-    "on": "켜기",
-    "off": "끄기"
-  }
+  "MsgTips.1": "코인 {0}개 구매 성공",
+  "MsgTips.2": "광고 제거 성공",
+  "MsgTips.3": "목표 프렌즈가 없습니다.",
+  "MsgTips.4": "광고는 5회만 시청 가능합니다.",
+  "MsgTips.5": "프렌즈가 없습니다.",
+  "MsgTips.6": "금화 50개 획득 축하드립니다",
+  "MsgTips.7": "획득 성공",
+  "MsgTips.8": "접속 보상 시간에 도달하지 못했습니다",
+  "MsgTips.9": "코인이 부족해요",
+  "MsgTips.10": "구매 성공",
+  "MsgTips.11": "이미 광고 제거를 구매하셨습니다.",
+  "MsgTips.12": "획득 완료",
+  "MsgTips.13": "내일 이후에 받을 수 있어요.",
+  "MsgTips.14": "내일 받을 수 있어요.",
+  "text.day": "{0} 일차",
+  "text.hammerDesc": "삭제 할 프렌즈를 터치 하세요.",
+  "help.desc.1": "같은프렌즈를 좌우로 움직여 매치하세요",
+  "help.desc.2": "프렌즈는 화살표방향으로 진화합니다",
+  "help.desc.3": "프렌즈가 상자를 넘지않게\\n성장시키세요",
+  "help.desc.4": "아이템을 사용해서\\n더 높은 점수를 얻으세요",
+  "menu.onlineReward": "접속보상",
+  "menu.shop": "상점",
+  "menu.dailyReward": "데일리보상",
+  "menu.ranking": "랭킹",
+  "gameStart": "게임시작",
+  "dailyReward.title": "데일리보상",
+  "text.loading": "로딩중...",
+  "onlineReward.title": "접속보상",
+  "onlineReward.doubleGet": "2배 획득",
+  "onlineReward.Get": "받기",
+  "resultView.title": "도전실패",
+  "resultView.score": "점수 :",
+  "text.exit": "나가기",
+  "text.continue": "계속하기",
+  "setting.title": "설정",
+  "shop.title": "상 점"
 }
