@@ -86,7 +86,7 @@ var LocalizationManager = cc.Class({
     },
 
     cdnBaseUrl: {
-      default: "https://cdn.jsdelivr.net/gh/TinycellCorp/kakao_localization@main",
+      default: "https://raw.githubusercontent.com/TinycellCorp/kakao_localization/main",
       tooltip: "CDN 베이스 URL"
     },
 
@@ -106,7 +106,7 @@ var LocalizationManager = cc.Class({
     },
 
     cdnVersionUrl: {
-      default: "https://cdn.jsdelivr.net/gh/TinycellCorp/kakao_localization@main/version.json",
+      default: "https://raw.githubusercontent.com/TinycellCorp/kakao_localization/main/version.json",
       tooltip: "CDN 버전 파일 URL"
     }
   },

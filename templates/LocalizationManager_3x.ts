@@ -93,7 +93,7 @@ export class LocalizationManager extends Component {
     cdnProjectId: string = "NEW_PROJECT_ID";
 
     @property({ tooltip: "CDN 베이스 URL" })
-    cdnBaseUrl: string = "https://cdn.jsdelivr.net/gh/TinycellCorp/kakao_localization@main";
+    cdnBaseUrl: string = "https://raw.githubusercontent.com/TinycellCorp/kakao_localization/main";
 
     @property({ tooltip: "CDN 실패 시 로컬 폴백 사용" })
     useFallback: boolean = true;
@@ -105,7 +105,7 @@ export class LocalizationManager extends Component {
     cacheExpireSeconds: number = 3600;
 
     @property({ tooltip: "CDN 버전 파일 URL" })
-    cdnVersionUrl: string = "https://cdn.jsdelivr.net/gh/TinycellCorp/kakao_localization@main/version.json";
+    cdnVersionUrl: string = "https://raw.githubusercontent.com/TinycellCorp/kakao_localization/main/version.json";
 
     // ========== Static Properties ==========
 
