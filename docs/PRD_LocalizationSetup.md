@@ -16,7 +16,7 @@
 ### 2.1 아키텍처
 ```
 ┌─────────────────┐     ┌─────────────────────────────────────┐
-│  Game Client    │────▶│  jsdelivr CDN                       │
+│  Game Client    │───▶│  jsdelivr CDN                       │
 │                 │     │  cdn.jsdelivr.net/gh/TinycellCorp/  │
 │  - version.json │     │  kakao_localization@main/           │
 │  - {lang}.json  │     │                                     │
