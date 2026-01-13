@@ -34,5 +34,6 @@
   "text.exit": "나가기",
   "text.continue": "계속하기",
   "setting.title": "설정",
-  "shop.title": "상 점"
+  "shop.title": "상 점",
+  "tutorial.text.1":"좌우로 이동 후 떨어뜨려주세요"
 }
