@@ -18,7 +18,7 @@
   "text.gameStart": "게임 시작",
   "text.level": "레벨 {0}",
   "text.locked.skin": "스킨을 획득하였습니다",
-  "text.no.use.daoju": "아이템 사용 불필요",
+  "text.no.use.daoju": "현재는 사용할 수 없는 상황입니다",
   "text.ranking": "랭킹",
   "text.refresh": "새로고침",
   "text.revoke": "되돌리기",
