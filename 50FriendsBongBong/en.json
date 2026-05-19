@@ -37,5 +37,6 @@
   "shop.title": "shop.title",
   "share.title": "Show off",
   "share.sent": "Shared!",
-  "share.notSupported": "Sharing isn't available in this environment"
+  "share.notSupported": "Sharing isn't available in this environment",
+  "tutorial.text.1": "tutorial.text.1"
 }
