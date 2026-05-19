@@ -35,5 +35,7 @@
   "text.continue": "text.continue",
   "setting.title": "setting.title",
   "shop.title": "shop.title",
-  "tutorial.text.1":"tutorial.text.1"
+  "share.title": "炫耀",
+  "share.sent": "已分享！",
+  "share.notSupported": "此处不支持炫耀"
 }
