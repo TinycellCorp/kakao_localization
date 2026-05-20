@@ -40,11 +40,11 @@
   "share.notSupported": "이 환경에서는 자랑하기를 사용할 수 없어요",
   "tutorial.text.1": "좌우로 이동 후 떨어뜨려주세요",
   "rankView.tab.curWeek": "이번주 랭킹",
-  "rankView.tab.prevWeek": "저번주 랭킹",
+  "rankView.tab.prevWeek": "지난주 랭킹",
   "rankView.me": "나",
   "rankView.meWithName": "나 ({0})",
   "rankView.tab.curMonth": "이번달 랭킹",
-  "rankView.tab.prevMonth": "저번달 랭킹",
+  "rankView.tab.prevMonth": "지난달 랭킹",
   "rankView.refreshInfo.weekly": "매주 월요일 <color=#ef6f26>00:00</color> 초기화",
   "rankView.refreshInfo.monthly": "매월 1일 <color=#ef6f26>00:00</color> 초기화"
 }
