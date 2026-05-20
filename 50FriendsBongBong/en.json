@@ -41,7 +41,10 @@
   "tutorial.text.1": "tutorial.text.1",
   "rankView.tab.curWeek": "This Week",
   "rankView.tab.prevWeek": "Last Week",
-  "rankView.refreshInfo": "Refreshes at <color=#ef6f26>9 AM</color> tomorrow!",
   "rankView.me": "Me",
-  "rankView.meWithName": "Me ({0})"
+  "rankView.meWithName": "Me ({0})",
+  "rankView.tab.curMonth": "This Month",
+  "rankView.tab.prevMonth": "Last Month",
+  "rankView.refreshInfo.weekly": "Resets every Monday at <color=#ef6f26>00:00</color>",
+  "rankView.refreshInfo.monthly": "Resets on the 1st at <color=#ef6f26>00:00</color>"
 }

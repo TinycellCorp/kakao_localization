@@ -41,7 +41,10 @@
   "tutorial.text.1": "tutorial.text.1",
   "rankView.tab.curWeek": "本周排行",
   "rankView.tab.prevWeek": "上周排行",
-  "rankView.refreshInfo": "明天上午<color=#ef6f26>9点</color>更新！",
   "rankView.me": "我",
-  "rankView.meWithName": "我 ({0})"
+  "rankView.meWithName": "我 ({0})",
+  "rankView.tab.curMonth": "本月排行",
+  "rankView.tab.prevMonth": "上月排行",
+  "rankView.refreshInfo.weekly": "每周一 <color=#ef6f26>00:00</color> 重置",
+  "rankView.refreshInfo.monthly": "每月1日 <color=#ef6f26>00:00</color> 重置"
 }
