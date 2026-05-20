@@ -38,5 +38,10 @@
   "share.title": "자랑하기",
   "share.sent": "자랑하기를 보냈어요",
   "share.notSupported": "이 환경에서는 자랑하기를 사용할 수 없어요",
-  "tutorial.text.1": "좌우로 이동 후 떨어뜨려주세요"
+  "tutorial.text.1": "좌우로 이동 후 떨어뜨려주세요",
+  "rankView.tab.curWeek": "이번주 랭킹",
+  "rankView.tab.prevWeek": "지난주 랭킹",
+  "rankView.refreshInfo": "내일 오전 <color=#ef6f26>9시</color> 갱신!",
+  "rankView.me": "나",
+  "rankView.meWithName": "나 ({0})"
 }
