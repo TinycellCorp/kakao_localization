@@ -16,6 +16,8 @@
   "MsgTips.coinGet": "+{0} Coins!",
   "MsgTips.coinGetX2": "+{0} Coins (x2)!",
   "MsgTips.adFailed": "Couldn't load the ad. Please try again later.",
+  "error.initFailed": "Cannot connect to the game due to an unknown error",
+  "error.initFailedWithCode": "Cannot connect to the game due to an unknown error (code: {0})",
   "text.day": "text.day",
   "text.hammerDesc": "text.hammerDesc",
   "help.desc.1": "help.desc.1",
